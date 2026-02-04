@@ -1,29 +1,22 @@
 {
   "version": "0.1.0-beta",
-  "release_date": "2026-01-31",
+  "release_date": "2026-02-04",
   "release_notes_url": "https://github.com/aina-technology/aina-updater-releases/releases/tag/v0.1.0-beta",
   "min_os_version": "12.0",
   "downloads": {
     "macos-arm64": {
       "url": "https://github.com/aina-technology/aina-updater-releases/releases/download/v0.1.0-beta/aina-updater-v0.1.0-beta-macos-arm64.zip",
-      "sha256": "CHECKSUM_PLACEHOLDER_ARM64",
-      "size_bytes": 0
+      "sha256": "1f3722876862810aadf9b62f4fd94eb35260d7220ff722d89195f50a56fd4458",
+      "size_bytes": 5096341
     },
     "macos-x64": {
       "url": "https://github.com/aina-technology/aina-updater-releases/releases/download/v0.1.0-beta/aina-updater-v0.1.0-beta-macos-x64.zip",
-      "sha256": "CHECKSUM_PLACEHOLDER_X64",
-      "size_bytes": 0
+      "sha256": "5ccce05de286db5617bd0db03c30895ae4d55a403f53d811bb9c2d39fafda555",
+      "size_bytes": 5361856
     }
   },
   "changelog": [
-    "🎉 Initial beta release",
-    "✨ App scanning and version detection",
-    "🔄 Sparkle, GitHub, and Homebrew feed support",
-    "📦 Download and install updates",
-    "🗑️ Uninstall with related files cleanup",
-    "🌐 Web UI dashboard",
-    "⚙️ Custom feed configuration",
-    "🔑 License and trial system"
+    "See release notes for details"
   ],
   "urgent": false,
   "min_version": null
